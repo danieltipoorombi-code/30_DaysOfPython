@@ -34,3 +34,4 @@ print(sentence.find('because'))
 
 print('Name\t Age\t  Country\t City\t')
 print('Tipo\t 34\t Uganda\t    Kampala')
+
